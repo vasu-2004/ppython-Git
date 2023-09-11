@@ -1,0 +1,4 @@
+matplotlib - for data visualisation
+seaborn - advanced data visualisation
+numpy - to use n dimensional arrays
+pandas - used for framework
